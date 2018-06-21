@@ -1,0 +1,23 @@
+{
+  "name": "google-play-music-discord-rpc",
+  "version": "1.0.0",
+  "description": "A node package for getting a Rich Text output of what you're currently listening to on Google Play Music in Discord. Requires using \"Google Play Music Desktop Player\" with the Playback API enabled\"",
+  "main": "main.js",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "play",
+    "music",
+    "discord",
+    "rich",
+    "text"
+  ],
+  "author": "Xxplosions",
+  "license": "ISC"
+}
